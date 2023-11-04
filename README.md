@@ -1,4 +1,4 @@
-# school-project-python-vslib
+# school-project-python-vslib (2019)
 Lineplotlib for python as a school project
 
 README FOR VISUALISATION LIBRARY
